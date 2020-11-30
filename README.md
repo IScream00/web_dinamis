@@ -1,8 +1,13 @@
 # web_dinamis
-Tugas 1 HTML
+**Tugas 1 HTML**
+
 ![Screenshot (7)](https://user-images.githubusercontent.com/73802193/100568788-c00b9a80-32fe-11eb-8148-79a2a715ec42.png)
 
-Tugas5(FungsiPHP)
+**Tugas 2 HTML**
+
+![Screenshot (8)](https://user-images.githubusercontent.com/73802193/100569290-28a74700-3300-11eb-8220-066399bfa00b.png)
+
+**Tugas5(FungsiPHP)**
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/73802193/100542083-9a3cb200-327a-11eb-900f-61482747b696.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/73802193/100542571-62833980-327d-11eb-9530-3e4949f83c65.png)
