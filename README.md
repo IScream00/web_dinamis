@@ -15,3 +15,7 @@
 ![Screenshot (4)](https://user-images.githubusercontent.com/73802193/100542587-70d15580-327d-11eb-8f31-4ee9ee9b0e6b.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/73802193/100542593-75960980-327d-11eb-83ec-02c75f2a723e.png)
 ![Screenshot (6)](https://user-images.githubusercontent.com/73802193/100542597-79299080-327d-11eb-9a9a-59d1a957a46f.png)
+
+**Tugas 4(Tugas Web)**
+
+![Screenshot (9)](https://user-images.githubusercontent.com/73802193/100569468-b8e58c00-3300-11eb-92f2-1e43dbddf545.png)
